@@ -1,6 +1,20 @@
 # STM32-ESP32-UART-counter
 UART communication between stm32 and esp32 using UART protocol.
 
+## Skills Demonstrated
+
+- UART Communication
+- STM32 HAL Programming
+- ESP32 Programming
+- Embedded C
+- Inter-Microcontroller Communication
+- Hardware Debugging
+  
+## Future Improvement
+- Bidirectional UART Communication
+- Integration into DeskBuddy Project
+
+
 STM32-ESP32-UART-Communication
 
 Overview
