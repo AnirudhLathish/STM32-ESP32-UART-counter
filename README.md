@@ -47,6 +47,24 @@ STM32 Counter: 3
 
 
 
+## Hardware Setup
+
+![Hardware Setup](Wiring.jpeg)
+
+## STM32 CubeIDE Configuration
+
+![STM32 Configuration](Config.png)
+
+## STM32 Source Code
+
+![STM32 Code](Code.png)
+
+## Output
+
+![Output](output.jpeg)
+
+
+
 
 
 
