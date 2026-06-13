@@ -10,9 +10,6 @@ UART communication between stm32 and esp32 using UART protocol.
 - Inter-Microcontroller Communication
 - Hardware Debugging
   
-## Future Improvement
-- Bidirectional UART Communication
-- Integration into DeskBuddy Project
 
 
 STM32-ESP32-UART-Communication
@@ -77,6 +74,9 @@ STM32 Counter: 3
 
 ![Output](output.jpeg)
 
+## Future Improvement
+- Bidirectional UART Communication
+- Integration into DeskBuddy Project
 
 
 
